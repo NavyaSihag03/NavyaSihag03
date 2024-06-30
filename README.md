@@ -1,6 +1,6 @@
--  Hi, I’m @NavyaSihag03
--  I’m interested in Web development and competitive programming
--  I’m currently learning web development
+-  Hi, I’m Navya Sihag.
+-  I’m interested in Web development and machine learning.
+-  I’m currently learning web development.
 -  How to reach me sihagnavya12@gmail.com
 
 <!---
