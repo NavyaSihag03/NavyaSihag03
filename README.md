@@ -1,6 +1,5 @@
 -  Hi, I’m Navya Sihag.
--  I’m interested in Web development and machine learning.
--  I’m currently learning web development.
+-  I’m interested in Machine learning.
 -  How to reach me sihagnavya12@gmail.com
 
 <!---
